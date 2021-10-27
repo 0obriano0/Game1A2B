@@ -11,7 +11,7 @@ public class buttonFunction {
 			button_Num_00.setEnabled(true);
 		}
 		if(NumButton == 4){
-			System.out.println("¥H¿é¤J¥|­Ó«ö¶s¡A©Ò¥H±N¨ä¥L¼Æ¦r«ö¶sÂê©w");
+			System.out.println("ä»¥è¼¸å…¥å››å€‹æŒ‰éˆ•ï¼Œæ‰€ä»¥å°‡å…¶ä»–æ•¸å­—æŒ‰éˆ•éŽ–å®š");
 			button_Num_00.setEnabled(false);
 			button_Num_01.setEnabled(false);
 			button_Num_02.setEnabled(false);

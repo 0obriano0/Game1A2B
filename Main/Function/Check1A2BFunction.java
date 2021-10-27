@@ -20,21 +20,21 @@ public class Check1A2BFunction {
 		if(usernum01 == DetermineNum01){
 			Num01 = "A";
 			A += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤@­Ó¼Æ¦r ¬O A ©Ò¥HA+1 ¥Ø«eA = " + A);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸€å€‹æ•¸å­— æ˜¯ A æ‰€ä»¥A+1 ç›®å‰A = " + A);
 		}else if(usernum01 == DetermineNum02){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤@­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸€å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum01 == DetermineNum03){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤@­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸€å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum01 == DetermineNum04){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤@­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸€å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else{
-			System.out.println("ÀË¬d¤§«áµo²{²Ä¤@­Ó¼Æ¤°»ò³£¤£¬O");
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œç™¼ç¾ç¬¬ä¸€å€‹æ•¸ä»€éº¼éƒ½ä¸æ˜¯");
 		}
 	}
 	public void CheckNum02ForAorB(int usernum02){
@@ -42,21 +42,21 @@ public class Check1A2BFunction {
 		if(usernum02 == DetermineNum02){
 			Num01 = "A";
 			A += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤G­Ó¼Æ¦r ¬O A ©Ò¥HA+1 ¥Ø«eA = " + A);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬äºŒå€‹æ•¸å­— æ˜¯ A æ‰€ä»¥A+1 ç›®å‰A = " + A);
 		}else if(usernum02 == DetermineNum01){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤G­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬äºŒå€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum02 == DetermineNum03){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤G­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬äºŒå€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum02 == DetermineNum04){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤G­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬äºŒå€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else{
-			System.out.println("ÀË¬d¤§«áµo²{²Ä¤G­Ó¼Æ¤°»ò³£¤£¬O");
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œç™¼ç¾ç¬¬äºŒå€‹æ•¸ä»€éº¼éƒ½ä¸æ˜¯");
 		}
 	}
 	public void CheckNum03ForAorB(int usernum03){
@@ -64,21 +64,21 @@ public class Check1A2BFunction {
 		if(usernum03 == DetermineNum03){
 			Num01 = "A";
 			A += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤T­Ó¼Æ¦r ¬O A ©Ò¥HA+1 ¥Ø«eA = " + A);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸‰å€‹æ•¸å­— æ˜¯ A æ‰€ä»¥A+1 ç›®å‰A = " + A);
 		}else if(usernum03 == DetermineNum02){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤T­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸‰å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum03 == DetermineNum01){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤T­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸‰å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum03 == DetermineNum04){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¤T­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬ä¸‰å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else{
-			System.out.println("ÀË¬d¤§«áµo²{²Ä¤T­Ó¼Æ¤°»ò³£¤£¬O");
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œç™¼ç¾ç¬¬ä¸‰å€‹æ•¸ä»€éº¼éƒ½ä¸æ˜¯");
 		}
 	}
 	public void CheckNum04ForAorB(int usernum04){
@@ -86,21 +86,21 @@ public class Check1A2BFunction {
 		if(usernum04 == DetermineNum04){
 			Num01 = "A";
 			A += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¥|­Ó¼Æ¦r ¬O A ©Ò¥HA+1 ¥Ø«eA = " + A);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬å››å€‹æ•¸å­— æ˜¯ A æ‰€ä»¥A+1 ç›®å‰A = " + A);
 		}else if(usernum04 == DetermineNum02){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¥|­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬å››å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum04 == DetermineNum03){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¥|­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬å››å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else if(usernum04 == DetermineNum01){
 			Num02 = "B";
 			B += 1;
-			System.out.println("ÀË¬d¤§«á ²Ä¥|­Ó¼Æ¦r ¬O B ©Ò¥HB+1 ¥Ø«eB = " + B);
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œ ç¬¬å››å€‹æ•¸å­— æ˜¯ B æ‰€ä»¥B+1 ç›®å‰B = " + B);
 		}else{
-			System.out.println("ÀË¬d¤§«áµo²{²Ä¥|­Ó¼Æ¤°»ò³£¤£¬O");
+			System.out.println("æª¢æŸ¥ä¹‹å¾Œç™¼ç¾ç¬¬å››å€‹æ•¸ä»€éº¼éƒ½ä¸æ˜¯");
 		}
 	}
 	
